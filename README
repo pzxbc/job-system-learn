@@ -1,0 +1,7 @@
+## 学习路线
+
+1. [Using Tasking to Scale Game Engine Systems](https://software.intel.com/content/www/us/en/develop/articles/using-tasking-to-scale-game-engine-systems.html)
+2. [TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler)
+3. [GamesTaskScheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)
+4. [Unity JobSystem](https://www.gdcvault.com/play/1024839/Job-System-Entity-Component-System)
+5. [taskflow](https://github.com/taskflow/taskflow)
