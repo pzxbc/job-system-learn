@@ -1,0 +1,10 @@
+bin/
+obj/
+log/
+Win32/
+
+.vs/
+.user
+.suo
+.opensdf
+.sdf
