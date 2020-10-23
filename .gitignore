@@ -4,7 +4,7 @@ log/
 Win32/
 
 .vs/
-.user
-.suo
-.opensdf
-.sdf
+*.user
+*.suo
+*.opensdf
+*.sdf
